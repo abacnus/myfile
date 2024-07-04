@@ -99,7 +99,7 @@
             "key": "黑木耳",
             "name": "黑木耳",
             "type": 1,
-            "api": "https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
+            "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
             "playUrl": "https://player.heimuer.tv/index.html?url=",
             "searchable": 1,
             "changeable": 1,
